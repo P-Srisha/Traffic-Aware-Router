@@ -1,0 +1,55 @@
+{
+  "Karnataka": [
+    "Bengaluru",
+    "Mysuru",
+    "Udupi",
+    "Mangaluru"
+  ],
+  "Maharashtra": [
+    "Mumbai",
+    "Pune",
+    "Nagpur"
+  ],
+  "Tamil Nadu": [
+    "Chennai",
+    "Coimbatore"
+  ],
+  "Delhi": [
+    "Delhi"
+  ],
+  "West Bengal": [
+    "Kolkata"
+  ],
+  "Telangana": [
+    "Hyderabad"
+  ],
+  "Kerala": [
+    "Kochi",
+    "Thiruvananthapuram"
+  ],
+  "Gujarat": [
+    "Ahmedabad",
+    "Surat"
+  ],
+  "Rajasthan": [
+    "Jaipur"
+  ],
+  "Uttar Pradesh": [
+    "Lucknow"
+  ],
+  "Punjab": [
+    "Amritsar"
+  ],
+  "Madhya Pradesh": [
+    "Bhopal"
+  ],
+  "Odisha": [
+    "Bhubaneswar"
+  ],
+  "Assam": [
+    "Guwahati"
+  ],
+  "Bihar": [
+    "Patna"
+  ]
+}
